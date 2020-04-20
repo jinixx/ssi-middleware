@@ -23,7 +23,7 @@
     "server-side-includes"
   ],
   "dependencies": {
-    "request-promise-native": "^1.0.5",
+    "request-promise-native": "^1.0.8",
     "string-replace-async": "^1.2.1",
     "tamper": "^1.0.0",
     "util.promisify": "^1.0.0"
